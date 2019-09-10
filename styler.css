@@ -1,0 +1,213 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-repeat: no-repeat;
+    position: relative; */
+
+}
+html{
+    position: relative;
+    min-width: 1400px;
+    min-height: 850px;
+    height: 100%;
+}
+
+/*---------------*/
+#wrapper{
+    margin-left: -700px;
+    margin-top: -425px;
+    position: absolute;
+    height: 850px;
+    width: 1400px;
+    left: 50%;
+    top: 50%;
+    padding-left: 10px;
+}
+/*---------------*/
+img{
+    height: 850px;
+    width: 1400px;  
+}
+p{
+    color: black;
+    display: inline-block;
+    font-size: 24px;
+}
+.comparison{
+    background-color: rgba(209, 209, 209, 0.4);
+    padding: 0 60px;
+}
+.initial{
+    position: absolute;
+    left: 15%;
+    top: 8%;
+}
+p:hover{
+    color: white;
+}
+span{
+    font-size: 36px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 100px;
+}
+h1{
+    font-size: 56px;
+    display: inline-block;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+}
+h2{
+    font-size: 48px;
+}
+h1:hover{
+	color: orange;
+}
+/*--------------------------*/
+.seas2{
+    position: absolute;
+    top: 43%;
+    left: 10%;
+}
+.seas2:hover{
+    color: white;
+}
+.lets1{
+    color: white;
+    position: absolute;
+    top: 13%;
+    right: 9%; 
+}
+.hov:hover{
+    color:orange;
+}
+/*--------------------------*/
+.trees2{
+    position: absolute;
+    right: 25%;
+    top: 6%;
+}
+.trees2:hover{
+    color:white;
+}
+.lets2{
+    position: absolute;
+    right: 7%;
+    top: 17%;
+}
+.second{
+    position: absolute;
+    bottom: 9%;
+    left: 14%;
+}
+/*--------------------------*/
+.sands2{
+    position: absolute;
+    right: 47%;
+    top: 29%;
+}
+.sands2:hover{
+    color:white;
+}
+.lets3{
+    color:white;
+    position: absolute;
+    right: 7%;
+    bottom: 10%;
+}
+.third{
+    position: absolute;
+    bottom: 20%;
+    left: 16%;
+}
+/*--------------------------*/
+.lands2{
+    position: absolute;
+    right: 46%;
+    top: 28%;
+}
+.lands2:hover{
+    color:white;
+}
+.lets4{
+    color:white;
+    position: absolute;
+    right: 7%;
+    bottom: 10%;
+}
+.third{
+    position: absolute;
+    bottom: 27%;
+    left: 16%;
+}
+/*--------------------------*/
+.streets2{
+    color: white;
+    position: absolute;
+    left: 54%;
+    bottom: 42%;
+}
+.streets2:hover{
+    color:black;
+}
+.lets5{
+    color:white;
+    position: absolute;
+    left: 10%;
+    top: 8%;
+}
+/*--------------------------*/
+.heat2{
+    position: absolute;
+    left: 7%;
+    bottom: 32%;
+}
+.heat2:hover{
+    color:white;
+}
+.lets6{
+    color:white;
+    position: absolute;
+    right: 10%;
+    top: 10%;
+}
+/*--------------------------*/
+.final{
+    background-image: url(bg2.jpg);
+    padding: 10px;
+}
+.final h2{
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+.final p{
+    color: white;
+    text-shadow: 2px 2px 4px black;
+    font-weight: bold;
+    display: inline-block;
+}
+.final p:hover{
+    color: orange;
+}
+button{
+    position: absolute;
+    bottom: 54%;
+    left: 54%;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: rgba(209, 209, 209, 0.4);
+}
+
+
+/*-----------------------*/
+
+video{
+    width: 100vw;
+}
